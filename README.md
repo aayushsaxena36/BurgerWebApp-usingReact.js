@@ -1,8 +1,8 @@
 # BurgerWebApp-usingReact.js
 
-To Run the App-
+Procedure-
 You need Node.js for using the app.
-1)After installing Node.js in terminal tyoe "create-react-app Burger Ordering Web App --scripts-version 1.1.5".
+1)After installing Node.js in terminal type "create-react-app Burger Ordering Web App --scripts-version 1.1.5".
 2)Download the above code and put it "src" named folder.
 3)Exchange the src folder of project created with this one.
 4)Connect the App with your personal backend(This one uses Google Firebase),by exchanging the URLs in "axios-orders.js","BurgerBuilder.js" filesss
